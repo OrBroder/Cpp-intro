@@ -1,0 +1,6 @@
+C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build/CMakeFiles/Exam.dir
+C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build/CMakeFiles/package.dir
+C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build/CMakeFiles/package_source.dir
+C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build/CMakeFiles/test.dir
+C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build/CMakeFiles/edit_cache.dir

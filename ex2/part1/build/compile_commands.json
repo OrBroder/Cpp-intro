@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Exam.dir\\defaultMain.cpp.obj -c \"C:\\Users\\orbro\\OneDrive - Technion\\Docs\\Personal\\Technion\\Semester2\\System Programming Intro\\ex2\\defaultMain.cpp\"",
+  "file": "C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/defaultMain.cpp"
+},
+{
+  "directory": "C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Exam.dir\\ExamDetails.cpp.obj -c \"C:\\Users\\orbro\\OneDrive - Technion\\Docs\\Personal\\Technion\\Semester2\\System Programming Intro\\ex2\\ExamDetails.cpp\"",
+  "file": "C:/Users/orbro/OneDrive - Technion/Docs/Personal/Technion/Semester2/System Programming Intro/ex2/ExamDetails.cpp"
+}
+]
